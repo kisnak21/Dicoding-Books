@@ -1,0 +1,17 @@
+.container {
+  padding: 16px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+body {
+  background: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-library-cartoon-banner-illustration-image_155272.jpg');
+  
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+}
